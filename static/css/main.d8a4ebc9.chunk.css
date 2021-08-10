@@ -1,0 +1,78 @@
+.toolbarClassName {
+    color: #000;
+    border-radius: 12px;
+    margin: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 5px;
+    background-color: #343434;
+    border-color: #282828
+}
+
+.toolbarClassName>.rdw-dropdown-wrapper {
+    background: #2f2f2f;
+    border-color: #282828;
+    color: #fff
+}
+
+.toolbarClassName>.rdw-dropdown-wrapper:hover {
+    box-shadow: 1px 1px 0 #282828;
+    background-color: #2f2f2f
+}
+
+.toolbarClassName>.rdw-dropdown-wrapper>ul,
+.toolbarClassName>.rdw-dropdown-wrapper>ul:hover {
+    background-color: #2f2f2f;
+    border-color: #282828
+}
+
+.toolbarClassName>.rdw-dropdown-wrapper>.rdw-dropdown-optionwrapper:hover {
+    box-shadow: 1px 1px 0 #282828;
+    background-color: #2f2f2f;
+    border-color: #282828
+}
+
+.toolbarClassName>.rdw-dropdown-wrapper>ul>li>.rdw-dropdownoption-highlighted,
+.toolbarClassName>div>.rdw-dropdown-wrapper {
+    background: #2f2f2f;
+    border-color: #282828
+}
+
+.toolbarClassName>div>.rdw-dropdown-wrapper:hover,
+.toolbarClassName>div>.rdw-dropdown-wrapper>ul {
+    box-shadow: 1px 1px 0 #282828;
+    background-color: #2f2f2f
+}
+
+.toolbarClassName>div>.rdw-dropdown-wrapper>ul {
+    border-color: #282828
+}
+
+.toolbarClassName>div>.rdw-dropdown-wrapper>ul>.rdw-dropdownoption-active {
+    background-color: #2f2f2f;
+    border-color: #282828
+}
+
+.toolbarClassName>div>.rdw-dropdown-wrapper>ul:hover {
+    box-shadow: 1px 1px 0 #282828;
+    background-color: #2f2f2f;
+    border-color: #282828
+}
+
+.toolbarClassName>div>.rdw-dropdown-wrapper>ul>li>.rdw-dropdownoption-highlighted {
+    background: #2f2f2f;
+    border-color: #282828
+}
+
+.editorClassName {
+    background: #2f2f2f;
+    border-radius: 12px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    margin-bottom: 20px;
+    padding: 0 20px;
+    border: 1px solid #282828;
+    height: 150px;
+    overflow: hidden;
+    width: 100%
+}
